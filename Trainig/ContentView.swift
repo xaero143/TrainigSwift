@@ -21,7 +21,6 @@ struct ContentView: View
                 .fontWeight(/*@START_MENU_TOKEN@*/.black/*@END_MENU_TOKEN@*/)
                 .blendMode(/*@START_MENU_TOKEN@*/.darken/*@END_MENU_TOKEN@*/)
                 .menuOrder(/*@START_MENU_TOKEN@*/.priority/*@END_MENU_TOKEN@*/)
-            
 
             
         }
